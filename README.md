@@ -26,7 +26,7 @@ The analysis that we are going to perform shall answer the following questions:
 * Which Restaurants have Good Cuisine and an average rating?
 
 ## Dashboard
-<img width="1800" alt="Dashboard snapshort" src="
+<img width="1800" alt="Dashboard snapshort" src="https://github.com/abarnabalasankaran/Zomato-Data-Analysis-Project-Python-Power-BI-/blob/main/Zomato%20Dashboard.pbix"
 
 ## Conclusion
 From the analysis, we observed:
