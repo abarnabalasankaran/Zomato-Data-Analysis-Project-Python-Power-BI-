@@ -25,8 +25,6 @@ The analysis that we are going to perform shall answer the following questions:
 * In terms of the number of restaurants, which locality has the most?
 * Which Restaurants have Good Cuisine and an average rating?
 
-## Dashboard
-<img width="1800" alt="Dashboard snapshort" src="https://github.com/abarnabalasankaran/Zomato-Data-Analysis-Project-Python-Power-BI-/blob/main/Zomato%20Dashboard.pbix"
 
 ## Conclusion
 From the analysis, we observed:
